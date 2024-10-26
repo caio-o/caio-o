@@ -19,12 +19,12 @@ Sou **aspirante a programador** e, tendo cursado um ano do Bacharelado em Sistem
   <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="left" alt="Vim"    width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
   <img align="left" alt="VSCode" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  <img align="left" alt="VSCode" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" />   
-<br /> <br /> 
-
-
+  <img align="left" alt="XML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" />   
+  <img align="left" alt="SFML" width="40px" style="padding-right:10px" src="https://www.sfml-dev.org/download/goodies/sfml-icon.svg" />
+<br /> <br /> <br /> <br /> <br />
 
 ## 🏗️ Projetos | Projects
+
 [**GGG (c/ Ana Molinos)**](https://github.com/caio-o/ggg)
 <br /> 
 <img align="left" alt="GGG" width="100px" style="padding-bottom:60px" src="https://github.com/caio-o/ggg/blob/main/img/quadrado_raivoso.png?raw=true" />
