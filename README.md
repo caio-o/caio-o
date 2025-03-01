@@ -36,7 +36,7 @@ Sou **aspirante a programador** e, tendo cursado um ano do Bacharelado em Sistem
 <img align="left" alt="GGG" width="100px" style="padding-bottom:60px" src="https://github.com/user-attachments/assets/1f47c83f-7f8a-4501-bb45-f2183252f260">
 <br /> <br /> <br /> <br />
 
-[**Litteratus (c/ D. Zabroba) (WIP)**](https://github.com/caio-o/monarithmos)
+[**Litteratus (c/ D. Zabroba) (WIP)**](https://github.com/danzagroba/Litteratus)
 <br /> 
 <img align="left" alt="GGG" width="100px" style="padding-bottom:60px" src="https://github.com/user-attachments/assets/115f7496-f51e-4f7f-bc5d-5607acef1f58">
 <br /> <br /> <br /> <br />
