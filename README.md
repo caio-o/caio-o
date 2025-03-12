@@ -15,12 +15,14 @@ Sou **aspirante a programador** e, tendo cursado um ano do Bacharelado em Sistem
   <img align="left" alt="Git"    width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="left" alt="C"      width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"  />
   <img align="left" alt="C++"    width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />          
-  <img align="left" alt="C#"     width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<!--  <img align="left" alt="C#"     width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /> -->
   <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="left" alt="Vim"    width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
-  <img align="left" alt="VSCode" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  <img align="left" alt="XML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" />   
-  <img align="left" alt="SFML" width="40px" style="padding-right:10px" src="https://www.sfml-dev.org/download/goodies/sfml-icon.svg" />
+<!--  <img align="left" alt="VSCode" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> -->
+<!--  <img align="left" alt="XML"    width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" /> -->   
+  <img align="left" alt="SFML"   width="40px" style="padding-right:10px" src="https://www.sfml-dev.org/download/goodies/sfml-icon.svg" />
+  <img align="left" alt="QT"     height="38px" style="padding-right:10px" src="https://github.com/user-attachments/assets/7f25c985-8e35-401e-afec-71593a0a22fc" />
+
 <br /> <br /> <br /> <br /> <br />
 
 ## 🏗️ Projetos | Projects
