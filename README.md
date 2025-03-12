@@ -2,7 +2,7 @@
 
 **`Beginner programmer`**
 <br />
-Sou **aspirante a programador** e, tendo cursado um ano do Bacharelado em Sistemas de Informação na UTFPR (Paraná, Brasil), agora cursando Ciências da Computação na UFMS (Mato Grosso do Sul, Brasil). Já venho programando em **C** e **C++** [(p/ex. no jogo GGG)](https://github.com/caio-o/ggg), e amo **OOP**. No momento estou aprendendo a criar aplicativos com interface: vide [Litteratus, do Zagroba,](https://github.com/danzagroba/Litteratus) & [Monarithmos](https://github.com/caio-o/monarithmos). 
+Sou **aspirante a programador** e, tendo cursado um ano do Bacharelado em Sistemas de Informação na UTFPR (Paraná, Brasil), agora estou cursando Ciências da Computação na UFMS (Mato Grosso do Sul, Brasil). Já venho programando em **C** e **C++** [(p/ex. no jogo GGG)](https://github.com/caio-o/ggg), e amo **OOP**. No momento estou aprendendo a criar aplicativos com interface: vide [Litteratus, do Zagroba,](https://github.com/danzagroba/Litteratus) & [Monarithmos](https://github.com/caio-o/monarithmos). 
 <br /> Falo inglês e amo latim <3
 > I'm an **aspiring programmer** and, after 1 year as an Information Systems undergraduate at UTFPR (Paraná, Brazil), I'm studying Computer Science at UFMS (Mato Grosso do Sul, Brazil). I've been programming in **C** and **C++**[(e.g. in the game GGG)](https://github.com/caio-o/ggg), and I love **OOP**. I am currently learning to make **UI apps**: see [Zagroba's Litteratus](https://github.com/danzagroba/Litteratus), & my [Monarithmos](https://github.com/caio-o/monarithmos).
 > 
