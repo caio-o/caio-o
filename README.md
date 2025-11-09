@@ -8,3 +8,4 @@ Ongoing:
 Planned:
 * C localization library
 * Classical Astrology website
+* Anything in PHP or JS
