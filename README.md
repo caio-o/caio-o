@@ -3,7 +3,8 @@ I will write this as a reminder for me to program every day and do complete smal
 
 Ongoing:
 * CLI to-do app with command line arguments
-* Website
+* Animal blood donation website
 
 Planned:
 * C localization library
+* Classical Astrology website
