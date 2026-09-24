@@ -1,11 +1,11 @@
 ## Hello!
-I will write this as a reminder for me to program every day and do complete small project a week.
+I will write this as a reminder for myself to program every day and complete my personal projects.
 
 Ongoing:
-* CLI to-do app with command line arguments
-* Animal blood donation website
+* Facial ID system for the AI course.
+* NCurses-based TUI app framework.
+* Passive Network Reconnaissance tool.
 
 Planned:
-* C localization library
-* Classical Astrology website
-* Anything in PHP or JS
+* C localization library.
+* Urban sky-gazing helper app.
